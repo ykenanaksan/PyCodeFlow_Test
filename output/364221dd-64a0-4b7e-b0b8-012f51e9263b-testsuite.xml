@@ -1,0 +1,64 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672762132329' stop='1672762141905'>
+    <name>default file chart:</name>
+    <title>default file chart:</title>
+    <test-cases>
+        <test-case start='1672762132331' status='passed' stop='1672762141828'>
+            <name>default file chart</name>
+            <title>default file chart</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1672762132334' status='passed' stop='1672762133348'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762133348' status='passed' stop='1672762133378'>
+                    <name>I wait for element "//label[@data-file-name="for_for.py"]", 30</name>
+                    <title>I wait for element "//label[@data-file-name="for_for.py"]", 30</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762133378' status='passed' stop='1672762133431'>
+                    <name>I click "//label[@data-file-name="for_for.py"]"</name>
+                    <title>I click "//label[@data-file-name="for_for.py"]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762133431' status='passed' stop='1672762136437'>
+                    <name>I wait 3</name>
+                    <title>I wait 3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762136437' status='passed' stop='1672762136578'>
+                    <name>I see "i in mod"</name>
+                    <title>I see "i in mod"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762136578' status='passed' stop='1672762138592'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762138592' status='passed' stop='1672762138825'>
+                    <name>I save screenshot "defaultFile.png"</name>
+                    <title>I save screenshot "defaultFile.png"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762138825' status='passed' stop='1672762141827'>
+                    <name>I wait 3</name>
+                    <title>I wait 3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

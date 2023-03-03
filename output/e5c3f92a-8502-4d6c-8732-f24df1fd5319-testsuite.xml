@@ -1,0 +1,136 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672762141910' stop='1672762156987'>
+    <name>recursive file chart:</name>
+    <title>recursive file chart:</title>
+    <test-cases>
+        <test-case start='1672762141911' status='passed' stop='1672762156892'>
+            <name>recursive file chart</name>
+            <title>recursive file chart</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1672762141913' status='passed' stop='1672762141965'>
+                    <name>I scroll to "//label[@data-file-name="testfile2.py"]", , 100</name>
+                    <title>I scroll to "//label[@data-file-name="testfile2.py"]", , 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762141965' status='passed' stop='1672762142471'>
+                    <name>I wait 0.5</name>
+                    <title>I wait 0.5</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762142471' status='passed' stop='1672762143484'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762143485' status='passed' stop='1672762143533'>
+                    <name>I wait for element "//label[@data-file-name="testfile2.py"]", 30</name>
+                    <title>I wait for element "//label[@data-file-name="testfile2.py"]", 30</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762143534' status='passed' stop='1672762143604'>
+                    <name>I click "//label[@data-file-name="testfile2.py"]"</name>
+                    <title>I click "//label[@data-file-name="testfile2.py"]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762143605' status='passed' stop='1672762146631'>
+                    <name>I wait for element "//*[contains(text(),"from test3 import fonksiyon")]/parent::*", 30</name>
+                    <title>I wait for element "//*[contains(text(),"from test3 import fonksiyon")]/parent::*", 30</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762146631' status='passed' stop='1672762146679'>
+                    <name>I scroll to "//*[contains(text(),"from test3 import fonksiyon")]/parent::*", , -100</name>
+                    <title>I scroll to "//*[contains(text(),"from test3 import fonksiyon")]/parent::*", , -100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762146679' status='passed' stop='1672762147192'>
+                    <name>I wait 0.5</name>
+                    <title>I wait 0.5</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762147192' status='passed' stop='1672762147358'>
+                    <name>I save screenshot "recursiveFile1.png"</name>
+                    <title>I save screenshot "recursiveFile1.png"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762147358' status='passed' stop='1672762148364'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762148364' status='passed' stop='1672762148391'>
+                    <name>I wait for element "//*[contains(text(),"from test3 import fonksiyon")]/parent::*", 30</name>
+                    <title>I wait for element "//*[contains(text(),"from test3 import fonksiyon")]/parent::*", 30</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762148391' status='passed' stop='1672762148468'>
+                    <name>I click "//*[contains(text(),"from test3 import fonksiyon")]/parent::*"</name>
+                    <title>I click "//*[contains(text(),"from test3 import fonksiyon")]/parent::*"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762148468' status='passed' stop='1672762150469'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762150470' status='passed' stop='1672762150610'>
+                    <name>I see element "//*[contains(text(),"yazdir")]/parent::*"</name>
+                    <title>I see element "//*[contains(text(),"yazdir")]/parent::*"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762150610' status='passed' stop='1672762150776'>
+                    <name>I save screenshot "recursiveFile2.png"</name>
+                    <title>I save screenshot "recursiveFile2.png"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762150777' status='passed' stop='1672762151784'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762151784' status='passed' stop='1672762151828'>
+                    <name>I wait for element "(//*[contains(text(),"from test3 import fonksiyon")])[2]/parent::*", 30</name>
+                    <title>I wait for element "(//*[contains(text(),"from test3 import fonksiyon")])[2]/parent::*", 30</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762151828' status='passed' stop='1672762151875'>
+                    <name>I click "(//*[contains(text(),"from test3 import fonksiyon")])[2]/parent::*"</name>
+                    <title>I click "(//*[contains(text(),"from test3 import fonksiyon")])[2]/parent::*"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762151875' status='passed' stop='1672762153879'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672762153880' status='passed' stop='1672762156891'>
+                    <name>I wait 3</name>
+                    <title>I wait 3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
